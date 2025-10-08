@@ -22,4 +22,4 @@
 - Priprema sadržaj u odgovarajućim formatima/profilima za objavu na web/portal.
 
 ## Napomena o softveru
-- Škola trenutno nema aktivne licence za Adobe pakete. Pojedinci koji imaju ličnu licencu mogu koristiti Adobe softver (Photoshop, Illustrator, Premiere Pro, Media Encoder, Audition). Za ostale preporučene su besplatne (open‑source) alternative iz „11-besplatni-softver-i-tutoriali.md“.
+- Škola nema aktivne licence za Adobe pakete. Pojedinci koji imaju ličnu licencu mogu koristiti Adobe softver (Photoshop, Illustrator, Premiere Pro, Media Encoder, Audition). Za sve ostale preporučuje se rad u besplatnim (open-source) alternativama navedenim u „11-besplatni-softver-i-tutoriali.md“.

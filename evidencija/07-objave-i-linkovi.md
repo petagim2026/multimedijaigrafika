@@ -1,8 +1,8 @@
 # Objave i radovi
 
-| Datum | Naziv rada/tema | Autori (tim) | Link na portal / drive | Napomene |
-|-------|------------------|--------------|-------------------------|----------|
-|       |                  |              |                         |          |
+| Datum | Naziv rada/tema | Autori (tim) | Link na portal / drive | Objavljeno na portalu (DA/NE) | Napomene |
+|-------|------------------|--------------|-------------------------|-------------------------------|----------|
+|       |                  |              |                         |                               |          |
 
 # Materijali za učenje (dostavljeni)
 - Udemy: Canon DSLR Photography Course (početni) — https://www.udemy.com/course/canon-dslr-photography-course (link s kuponom: https://www.udemy.com/course/canon-dslr-photography-course/?couponCode=PMNVD2525)

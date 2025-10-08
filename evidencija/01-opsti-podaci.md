@@ -2,7 +2,7 @@
 
 - Naziv sekcije: Sekcija za multimediju i grafiku
 - Voditelj: prof. Gordan Kranjčić
-- Školska godina: 20__/20__
+- Školska godina: 2025/2026
 - Prostorija: Kod biblioteke
 - Termini: ponedjeljak jedne i utorak druge sedmice u 13:15
 - Oprema: 2 foto-aparata (Canon), stativ, računari (PC), mobilni telefoni
@@ -20,3 +20,6 @@
 - Snima video sa pravilnim framerate-om i shutter-om (180° pravilo), stabilizacija (stativ/ruka).
 - Montira kratak video prilog uz titlove i muziku (poštovanje autorskih prava).
 - Priprema sadržaj u odgovarajućim formatima/profilima za objavu na web/portal.
+
+## Napomena o softveru
+- Škola trenutno nema aktivne licence za Adobe pakete. Pojedinci koji imaju ličnu licencu mogu koristiti Adobe softver (Photoshop, Illustrator, Premiere Pro, Media Encoder, Audition). Za ostale preporučene su besplatne (open‑source) alternative iz „11-besplatni-softver-i-tutoriali.md“.
